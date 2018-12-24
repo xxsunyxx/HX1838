@@ -1,4 +1,5 @@
- # OSOYOO_IR for micro-bit
+All credit to OSOYOO, i'm a newbie of programming 
+# OSOYOO_IR for micro-bit
 
 Extension for OSOYOO_IR
 
